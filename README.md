@@ -12,4 +12,4 @@ clone the respositary :'git clone https://github.com/arya735641/main.py navigate
 ## tools/libraries used
 languages :python project managment:github issues and kanban board
 ## contributers
-K R REVATHY
+ARYA P
